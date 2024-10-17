@@ -47,7 +47,7 @@ const notifyUsersOfPendingHabits = async () => {
       if (habits.length > 0) {
         await sendReminderEmail(user, habits);
       }
-    }
+    } 
   } catch (error) {
     console.error('Error fetching users or habits:', error);
   }
