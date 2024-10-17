@@ -1,6 +1,5 @@
  <h1>Habit Tracker Application</h1>
 
-
 ## Expense Swagger UI
 
 ![Expense Dashboard](./image/img1.png)
