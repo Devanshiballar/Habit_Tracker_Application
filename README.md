@@ -7,7 +7,7 @@
 <br>
 ![Expense Dashboard](./image/img2.png)
 
-    # Habit Tracker API
+# Habit Tracker API
 
 ## Objective
 
